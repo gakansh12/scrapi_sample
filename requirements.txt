@@ -1,0 +1,5 @@
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+# NOTE: update the package name/version to match how CXAS-scrapi is published in your environment.
+# If the package is named differently, change this line.
+cxas-scrapi
